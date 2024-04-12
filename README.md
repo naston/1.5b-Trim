@@ -8,6 +8,9 @@ Paper Inspirations:
 Model arch:
 - https://huggingface.co/1bitLLM/bitnet_b1_58-3B
 
+Method:
+- https://github.com/huggingface/transformers/issues/2483
+
 Datasets:
 - https://huggingface.co/datasets/cais/mmlu
 - https://huggingface.co/datasets/google/boolq
