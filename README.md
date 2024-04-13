@@ -14,3 +14,12 @@ Method:
 Datasets:
 - https://huggingface.co/datasets/cais/mmlu
 - https://huggingface.co/datasets/google/boolq
+
+Next Steps:
+- run test script
+    - verify dataset pre-processing
+    - verify output layers
+- run experiments
+    - mmlu
+    - boolq
+    - formulate outputs
